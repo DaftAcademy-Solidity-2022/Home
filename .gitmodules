@@ -1,3 +1,6 @@
 [submodule "samples/crowdfunding"]
 	path = samples/crowdfunding
 	url = ../class-2.git
+[submodule "samples/pauser-tests"]
+	path = samples/pauser-tests
+	url = ../Pauser.git
