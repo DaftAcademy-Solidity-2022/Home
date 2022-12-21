@@ -5,6 +5,16 @@
 
 ---
 
+## Wyniki prac domowych
+
+Wyniki prac domowych są dostępne [tutaj](https://docs.google.com/spreadsheets/d/1JvAarcIiFJXOwx7QpKz51ucZbidmAfmTYukBoOpIy60/edit#gid=0)!
+
+Aby poznać swój wynik, trzeba zahashować swój github username (sha256). Aby to zrobić, można użyć [tej strony](https://emn178.github.io/online-tools/sha256.html), lub można to zrobić z linii komend:
+
+```sh
+echo -n "mdab121" | openssl dgst -sha256
+```
+
 ## Zajęcia
 
 ### Zajęcia 1: Podstawy blockchainu i smart contractów
